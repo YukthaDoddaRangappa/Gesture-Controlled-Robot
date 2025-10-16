@@ -1,7 +1,7 @@
 # Gesture-Controlled-Robot
 Gesture Controlled Robot
 
-A wireless robot that moves based on hand tilt gestures using an MPU6050 accelerometer and Arduino / VEX Cortex / LEGO NXT compatible microcontroller. The robot interprets hand movements in real-time and moves accordingly, making it suitable for interactive robotics, automation learning, or hobby projects.
+A wireless robot that moves based on hand tilt gestures using an MPU6050 accelerometer and Arduino compatible microcontroller. The robot interprets hand movements in real-time and moves accordingly, making it suitable for interactive robotics, automation learning, or hobby projects.
 
 🚀 Features
 
@@ -15,9 +15,9 @@ Portable and suitable for robotics learning and demonstration projects.
 
 🛠️ Tech Stack
 
-Microcontroller: Arduino Uno / Mega / Nano (or VEX Cortex / LEGO NXT compatible)
+Microcontroller: Arduino Uno 
 
-Programming Language: Arduino IDE / RobotC (C/C++)
+Programming Language: /C++
 
 Components:
 
