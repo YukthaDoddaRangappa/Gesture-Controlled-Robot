@@ -70,5 +70,5 @@ Implement speed control based on hand tilt magnitude.
 Integrate with IoT for remote monitoring or control.
 
 📌 Author
-👩‍💻 Yuktha Charith
+👩‍💻 Yuktha
 🔗 GitHub Profile
